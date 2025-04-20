@@ -1,0 +1,7 @@
+##Output will look like this. Based on this , it is easy to compare object differences and identify the issues.
+
+CEI/comsrvsetups/tCOMSRVSETUPS_xxx.obj
+CEI/batchjobgrps/tBATCHJOBGRPS_xxx_1148.obj
+CEI/batchjobgrps/tBATCHJOBGRPS_xxx_2157.obj
+CEI/batchjobgrps/tBATCHJOBGRPS_xxx_3154.obj
+CEI/batchjobgrps/tBATCHJOBGRPS_xxx_4143.obj
